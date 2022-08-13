@@ -26,3 +26,6 @@ NODE JS
 EXPRESS JS
 MONGO DB
 VUE JS (FRONTEND)
+
+## Horlash Dev codes 2022
+## contact for more @ [portfolio](https://linktr.ee/abdulqawiyyi)

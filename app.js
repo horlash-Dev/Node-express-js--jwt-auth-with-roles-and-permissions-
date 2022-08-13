@@ -71,5 +71,5 @@ app.use((err,req,res,next)=>{
 })
 
 //server Listen
-app.listen(process.env.PORT, console.log(`SERVER STARTED @${process.env.PORT}`))
+app.listen(process.env.PORT || 5000, console.log(`SERVER STARTED @${process.env.PORT}`))
 
